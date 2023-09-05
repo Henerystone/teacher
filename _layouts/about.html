@@ -14,7 +14,7 @@ Setup course data
 {%comment%} 
 Load all posts
 {%endcomment%}
-
+    
 {% assign posts = null | compact %}
 {% assign posts = posts | concat:site.posts | concat:site.pages %}
 
@@ -95,13 +95,13 @@ Load all posts
   {%comment%} 
   <!-- organizing blogs by type -->
   {%endcomment%}
-          {% if post.type == "plans" %}
+          {% if post.type == "ccc" %}
               {% assign ccc = ccc | unshift: title %}
               {% assign ccc = ccc | unshift: url %}  
-          {% elsif post.type == "hax" %}
+          {% elsif post.type == "devops" %}
               {% assign devops = devops | unshift: title %}
               {% assign devops = devops | unshift: url %} 
-          {% elsif post.type == "tangibles" %}
+          {% elsif post.type == "collab" %}
               {% assign collab = collab | unshift: title %}
               {% assign collab = collab | unshift: url %} 
           {% else %}
