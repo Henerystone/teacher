@@ -2,8 +2,8 @@
 toc: true
 comments: true
 layout: post
-title: JS INTEGRATION PROJECT
-type: tangibles
+title: Website Start Blog
+type: hax
 courses: {csa: {week: 1}}
 
 ---
