@@ -1,6 +1,5 @@
 ---
-layout: about
-title: Computer Science Pinciples
-units: "1,2,3,4,5,6,7,8,9"
-course: csp
+title: About Me
 ---
+
+- I am Shreyas Sarurkar, a student in DNHS who is currently taking the APCSA course. I like reading books, playing video games, coding and playing sports such as badminton and soccer.
