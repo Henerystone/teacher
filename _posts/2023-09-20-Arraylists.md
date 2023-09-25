@@ -77,7 +77,7 @@ public ArrayList<String> collectComments()
 In summary, this code computes the average rating for a collection of reviews by iterating through the reviews, summing up their ratings, and then dividing the sum by the number of reviews. It returns the average rating as a decimal (double) value.
 
 - The second part:
-This code defines a method named `collectComments()` that processes an array (or list) of reviews, performs some modifications to their comments, and then returns a list of formatted comments as strings. Let's break down what this code does step by step:
+> This code defines a method named `collectComments()` that processes an array (or list) of reviews, performs some modifications to their comments, and then returns a list of formatted comments as strings. Let's break down what this code does step by step:
 
 1. It initializes an empty ArrayList of strings called `commentList`. This ArrayList will be used to store the processed comments.
 
