@@ -26,6 +26,7 @@ courses: {csa: {week: 4}}
 ## Explaination:
 > First, We must read the question and understand what it is telling us.
 > Next, We figure out the solution via our understanding:
+
 ```java
 public double getAverageRating()
 {
