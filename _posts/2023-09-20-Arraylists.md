@@ -4,8 +4,7 @@ comments: true
 layout: post
 title: Arrays and Arraylists
 type: hax
-courses: {csa: {week: 3}}
-images: question_a.png
+courses: {csa: {week: 4}}
 ---
 
 ## Definition:
