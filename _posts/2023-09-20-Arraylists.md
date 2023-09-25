@@ -26,7 +26,7 @@ courses: {csa: {week: 4}}
 ## Explaination:
 > First, We must read the question and understand what it is telling us.
 > Next, We figure out the solution via our understanding of java:
-```java```
+```java
 public double getAverageRating()
 {
  int sum = 0;
@@ -58,7 +58,7 @@ public ArrayList<String> collectComments()
  return commentList;
 } 
 
-``````
+```
 <br>
 
 > This code defines a method named `getAverageRating()` that calculates and returns the average rating for a collection of reviews. Here's a breakdown of what the code does:
