@@ -25,7 +25,7 @@ courses: {csa: {week: 4}}
 <img width="1000" alt="image" src="https://github.com/Henerystone/ws2/assets/96998793/86e911ac-8d6e-4044-ac04-d51ea6044459">
 ## Explaination:
 > First, We must read the question and understand what it is telling us.
-> Next, We figure out the solution via our understanding of java:
+> Next, We figure out the solution via our understanding:
 ```java
 public double getAverageRating()
 {
